@@ -34,3 +34,4 @@ java HelloWorld
 The example done from Git
 
 ## 18/07/2020 Git Trigger
+## VR 25/07/2020 GIT trigger for Task 8
